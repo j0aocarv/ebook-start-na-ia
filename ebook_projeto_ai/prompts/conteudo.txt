@@ -1,0 +1,6 @@
+Gere um conteudo para meu ebook relacionado a i.a generativa na produtividade de uma maneira leve e divertida
+ contendo bastante referencia gamer, vamos ter apenas 5 capitulos, quero que o conteudo faça o leitor a refletir
+  sobre as ferramentas aritificias generativas e que instrua ele que são ferramentas para aumentar nossa produtividade
+   e não para termos dependencia delas, explique conceitos simples por que é um livro iniciante então nada complexo
+    , faça um capitulo extra no final de agradecimentos e outro capitulo deixando claro que o conteudo foi gerado por
+     i.a e a diagramação poor humanos
