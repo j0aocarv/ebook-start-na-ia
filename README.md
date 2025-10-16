@@ -22,7 +22,7 @@ Com referências da cultura gamer, o conteúdo busca mostrar que a I.A é uma fe
 ## 📗 Ebook
 | Título | Descrição | Arquivo |
 |--------|------------|----------|
-| Start na I.A | Ebook introdutório sobre produtividade com Inteligência Artificial e referências gamer. | [📘 Baixar Ebook](./ebook/Start%20na%20I.A.pdf) |
+| Start na I.A | Ebook introdutório sobre produtividade com Inteligência Artificial e referências gamer. | [📘 Baixar Ebook](../ebook/Start%20na%20I.A.pdf) |
 
 ## 👨‍💻 Autor
 **João Carvalho**  
